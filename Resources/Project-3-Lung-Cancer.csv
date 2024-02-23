@@ -1,0 +1,417 @@
+﻿YearStart,YearEnd,LocationAbbr,Question,DataValueType,DataValue,DataValueAlt,StratificationCategory1,Stratification1,LocationID,StratificationCategoryID1,StratificationID1
+2015,2019,DC,"Cancer of the lung and bronchus, incidence",Average Annual Number,57,57,Race/Ethnicity,"White, non-Hispanic",11,RACE,WHT
+2015,2019,CO,"Cancer of the lung and bronchus, incidence",Average Annual Number,2023,2023,Race/Ethnicity,"White, non-Hispanic",8,RACE,WHT
+2015,2019,CA,"Cancer of the lung and bronchus, incidence",Average Annual Number,8481,8481,Gender,Female,6,GENDER,GENF
+2015,2019,CT,"Cancer of the lung and bronchus, incidence",Average Annual Number,3,3,Race/Ethnicity,American Indian or Alaska Native,9,RACE,AIAO
+2015,2019,CA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2408,2408,Race/Ethnicity,Asian or Pacific Islander,6,RACE,APIO
+2015,2019,CT,"Cancer of the lung and bronchus, incidence",Average Annual Number,1292,1292,Gender,Male,9,GENDER,GENM
+2015,2019,DE,"Cancer of the lung and bronchus, incidence",Average Annual Number,412,412,Gender,Female,10,GENDER,GENF
+2015,2019,CO,"Cancer of the lung and bronchus, incidence",Average Annual Number,79,79,Race/Ethnicity,"Black, non-Hispanic",8,RACE,BLK
+2015,2019,AK,"Cancer of the lung and bronchus, incidence",Average Annual Number,373,373,Overall,Overall,2,OVERALL,OVR
+2015,2019,AZ,"Cancer of the lung and bronchus, incidence",Average Annual Number,4009,4009,Overall,Overall,4,OVERALL,OVR
+2015,2019,DE,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,10,RACE,AIAO
+2015,2019,AK,"Cancer of the lung and bronchus, incidence",Average Annual Number,9,9,Race/Ethnicity,"Black, non-Hispanic",2,RACE,BLK
+2015,2019,AZ,"Cancer of the lung and bronchus, incidence",Average Annual Number,68,68,Race/Ethnicity,Asian or Pacific Islander,4,RACE,APIO
+2015,2019,FL,"Cancer of the lung and bronchus, incidence",Average Annual Number,1358,1358,Race/Ethnicity,"Black, non-Hispanic",12,RACE,BLK
+2015,2019,CO,"Cancer of the lung and bronchus, incidence",Average Annual Number,2407,2407,Overall,Overall,8,OVERALL,OVR
+2015,2019,DC,"Cancer of the lung and bronchus, incidence",Average Annual Number,299,299,Overall,Overall,11,OVERALL,OVR
+2015,2019,AR,"Cancer of the lung and bronchus, incidence",Average Annual Number,1302,1302,Gender,Female,5,GENDER,GENF
+2015,2019,DE,"Cancer of the lung and bronchus, incidence",Average Annual Number,11,11,Race/Ethnicity,Hispanic,10,RACE,HIS
+2015,2019,AK,"Cancer of the lung and bronchus, incidence",Average Annual Number,256,256,Race/Ethnicity,"White, non-Hispanic",2,RACE,WHT
+2015,2019,CO,"Cancer of the lung and bronchus, incidence",Average Annual Number,54,54,Race/Ethnicity,Asian or Pacific Islander,8,RACE,APIO
+2015,2019,CT,"Cancer of the lung and bronchus, incidence",Average Annual Number,32,32,Race/Ethnicity,Asian or Pacific Islander,9,RACE,APIO
+2015,2019,AL,"Cancer of the lung and bronchus, incidence",Average Annual Number,16,16,Race/Ethnicity,Hispanic,1,RACE,HIS
+2015,2019,AK,"Cancer of the lung and bronchus, incidence",Average Annual Number,201,201,Gender,Male,2,GENDER,GENM
+2015,2019,DC,"Cancer of the lung and bronchus, incidence",Average Annual Number,141,141,Gender,Male,11,GENDER,GENM
+2015,2019,CA,"Cancer of the lung and bronchus, incidence",Average Annual Number,1271,1271,Race/Ethnicity,"Black, non-Hispanic",6,RACE,BLK
+2015,2019,CO,"Cancer of the lung and bronchus, incidence",Average Annual Number,1160,1160,Gender,Male,8,GENDER,GENM
+2015,2019,CT,"Cancer of the lung and bronchus, incidence",Average Annual Number,203,203,Race/Ethnicity,"Black, non-Hispanic",9,RACE,BLK
+2015,2019,AR,"Cancer of the lung and bronchus, incidence",Average Annual Number,2927,2927,Overall,Overall,5,OVERALL,OVR
+2015,2019,CO,"Cancer of the lung and bronchus, incidence",Average Annual Number,1247,1247,Gender,Female,8,GENDER,GENF
+2015,2019,FL,"Cancer of the lung and bronchus, incidence",Average Annual Number,28,28,Race/Ethnicity,American Indian or Alaska Native,12,RACE,AIAO
+2015,2019,CA,"Cancer of the lung and bronchus, incidence",Average Annual Number,10973,10973,Race/Ethnicity,"White, non-Hispanic",6,RACE,WHT
+2015,2019,CT,"Cancer of the lung and bronchus, incidence",Average Annual Number,2337,2337,Race/Ethnicity,"White, non-Hispanic",9,RACE,WHT
+2015,2019,DC,"Cancer of the lung and bronchus, incidence",Average Annual Number,228,228,Race/Ethnicity,"Black, non-Hispanic",11,RACE,BLK
+2015,2019,DE,"Cancer of the lung and bronchus, incidence",Average Annual Number,825,825,Overall,Overall,10,OVERALL,OVR
+2015,2019,AZ,"Cancer of the lung and bronchus, incidence",Average Annual Number,1986,1986,Gender,Female,4,GENDER,GENF
+2015,2019,DC,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,11,RACE,AIAO
+2015,2019,AL,"Cancer of the lung and bronchus, incidence",Average Annual Number,1720,1720,Gender,Female,1,GENDER,GENF
+2015,2019,CA,"Cancer of the lung and bronchus, incidence",Average Annual Number,16905,16905,Overall,Overall,6,OVERALL,OVR
+2015,2019,CT,"Cancer of the lung and bronchus, incidence",Average Annual Number,2700,2700,Overall,Overall,9,OVERALL,OVR
+2015,2019,CO,"Cancer of the lung and bronchus, incidence",Average Annual Number,17,17,Race/Ethnicity,American Indian or Alaska Native,8,RACE,AIAO
+2015,2019,AL,"Cancer of the lung and bronchus, incidence",Average Annual Number,753,753,Race/Ethnicity,"Black, non-Hispanic",1,RACE,BLK
+2015,2019,DC,"Cancer of the lung and bronchus, incidence",Average Annual Number,158,158,Gender,Female,11,GENDER,GENF
+2015,2019,AZ,"Cancer of the lung and bronchus, incidence",Average Annual Number,124,124,Race/Ethnicity,"Black, non-Hispanic",4,RACE,BLK
+2015,2019,AK,"Cancer of the lung and bronchus, incidence",Average Annual Number,7,7,Race/Ethnicity,Hispanic,2,RACE,HIS
+2015,2019,DE,"Cancer of the lung and bronchus, incidence",Average Annual Number,413,413,Gender,Male,10,GENDER,GENM
+2015,2019,AZ,"Cancer of the lung and bronchus, incidence",Average Annual Number,3420,3420,Race/Ethnicity,"White, non-Hispanic",4,RACE,WHT
+2015,2019,FL,"Cancer of the lung and bronchus, incidence",Average Annual Number,178,178,Race/Ethnicity,Asian or Pacific Islander,12,RACE,APIO
+2015,2019,AL,"Cancer of the lung and bronchus, incidence",Average Annual Number,7,7,Race/Ethnicity,American Indian or Alaska Native,1,RACE,AIAO
+2015,2019,AR,"Cancer of the lung and bronchus, incidence",Average Annual Number,18,18,Race/Ethnicity,Asian or Pacific Islander,5,RACE,APIO
+2015,2019,CA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2189,2189,Race/Ethnicity,Hispanic,6,RACE,HIS
+2015,2019,AL,"Cancer of the lung and bronchus, incidence",Average Annual Number,2259,2259,Gender,Male,1,GENDER,GENM
+2015,2019,AK,"Cancer of the lung and bronchus, incidence",Average Annual Number,18,18,Race/Ethnicity,Asian or Pacific Islander,2,RACE,APIO
+2015,2019,DC,"Cancer of the lung and bronchus, incidence",Average Annual Number,7,7,Race/Ethnicity,Hispanic,11,RACE,HIS
+2015,2019,AK,"Cancer of the lung and bronchus, incidence",Average Annual Number,173,173,Gender,Female,2,GENDER,GENF
+2015,2019,AR,"Cancer of the lung and bronchus, incidence",Average Annual Number,1626,1626,Gender,Male,5,GENDER,GENM
+2015,2019,AZ,"Cancer of the lung and bronchus, incidence",Average Annual Number,350,350,Race/Ethnicity,Hispanic,4,RACE,HIS
+2015,2019,AZ,"Cancer of the lung and bronchus, incidence",Average Annual Number,39,39,Race/Ethnicity,American Indian or Alaska Native,4,RACE,AIAO
+2015,2019,CT,"Cancer of the lung and bronchus, incidence",Average Annual Number,1409,1409,Gender,Female,9,GENDER,GENF
+2015,2019,AR,"Cancer of the lung and bronchus, incidence",Average Annual Number,2500,2500,Race/Ethnicity,"White, non-Hispanic",5,RACE,WHT
+2015,2019,AL,"Cancer of the lung and bronchus, incidence",Average Annual Number,3980,3980,Overall,Overall,1,OVERALL,OVR
+2015,2019,DC,"Cancer of the lung and bronchus, incidence",Average Annual Number,6,6,Race/Ethnicity,Asian or Pacific Islander,11,RACE,APIO
+2015,2019,AR,"Cancer of the lung and bronchus, incidence",Average Annual Number,338,338,Race/Ethnicity,"Black, non-Hispanic",5,RACE,BLK
+2015,2019,AL,"Cancer of the lung and bronchus, incidence",Average Annual Number,21,21,Race/Ethnicity,Asian or Pacific Islander,1,RACE,APIO
+2015,2019,AL,"Cancer of the lung and bronchus, incidence",Average Annual Number,3173,3173,Race/Ethnicity,"White, non-Hispanic",1,RACE,WHT
+2015,2019,AZ,"Cancer of the lung and bronchus, incidence",Average Annual Number,2023,2023,Gender,Male,4,GENDER,GENM
+2015,2019,CO,"Cancer of the lung and bronchus, incidence",Average Annual Number,228,228,Race/Ethnicity,Hispanic,8,RACE,HIS
+2015,2019,AR,"Cancer of the lung and bronchus, incidence",Average Annual Number,35,35,Race/Ethnicity,Hispanic,5,RACE,HIS
+2015,2019,AK,"Cancer of the lung and bronchus, incidence",Average Annual Number,85,85,Race/Ethnicity,American Indian or Alaska Native,2,RACE,AIAO
+2015,2019,CA,"Cancer of the lung and bronchus, incidence",Average Annual Number,8424,8424,Gender,Male,6,GENDER,GENM
+2015,2019,DE,"Cancer of the lung and bronchus, incidence",Average Annual Number,685,685,Race/Ethnicity,"White, non-Hispanic",10,RACE,WHT
+2015,2019,DE,"Cancer of the lung and bronchus, incidence",Average Annual Number,117,117,Race/Ethnicity,"Black, non-Hispanic",10,RACE,BLK
+2015,2019,CT,"Cancer of the lung and bronchus, incidence",Average Annual Number,141,141,Race/Ethnicity,Hispanic,9,RACE,HIS
+2015,2019,AR,"Cancer of the lung and bronchus, incidence",Average Annual Number,25,25,Race/Ethnicity,American Indian or Alaska Native,5,RACE,AIAO
+2015,2019,DE,"Cancer of the lung and bronchus, incidence",Average Annual Number,9,9,Race/Ethnicity,Asian or Pacific Islander,10,RACE,APIO
+2015,2019,CA,"Cancer of the lung and bronchus, incidence",Average Annual Number,113,113,Race/Ethnicity,American Indian or Alaska Native,6,RACE,AIAO
+2015,2019,VT,"Cancer of the lung and bronchus, incidence",Average Annual Number,269,269,Gender,Male,50,GENDER,GENM
+2015,2019,KS,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,20,RACE,AIAO
+2015,2019,PA,"Cancer of the lung and bronchus, incidence",Average Annual Number,10,10,Race/Ethnicity,American Indian or Alaska Native,42,RACE,AIAO
+2015,2019,ME,"Cancer of the lung and bronchus, incidence",Average Annual Number,715,715,Gender,Female,23,GENDER,GENF
+2015,2019,TX,"Cancer of the lung and bronchus, incidence",Average Annual Number,6270,6270,Gender,Female,48,GENDER,GENF
+2015,2019,WI,"Cancer of the lung and bronchus, incidence",Average Annual Number,4416,4416,Overall,Overall,55,OVERALL,OVR
+2015,2019,MO,"Cancer of the lung and bronchus, incidence",Average Annual Number,38,38,Race/Ethnicity,Asian or Pacific Islander,29,RACE,APIO
+2015,2019,WI,"Cancer of the lung and bronchus, incidence",Average Annual Number,44,44,Race/Ethnicity,American Indian or Alaska Native,55,RACE,AIAO
+2015,2019,VA,"Cancer of the lung and bronchus, incidence",Average Annual Number,140,140,Race/Ethnicity,Asian or Pacific Islander,51,RACE,APIO
+2015,2019,OR,"Cancer of the lung and bronchus, incidence",Average Annual Number,2534,2534,Race/Ethnicity,"White, non-Hispanic",41,RACE,WHT
+2015,2019,IL,"Cancer of the lung and bronchus, incidence",Average Annual Number,4713,4713,Gender,Female,17,GENDER,GENF
+2015,2019,NC,"Cancer of the lung and bronchus, incidence",Average Annual Number,94,94,Race/Ethnicity,American Indian or Alaska Native,37,RACE,AIAO
+2015,2019,TX,"Cancer of the lung and bronchus, incidence",Average Annual Number,1678,1678,Race/Ethnicity,"Black, non-Hispanic",48,RACE,BLK
+2015,2019,PA,"Cancer of the lung and bronchus, incidence",Average Annual Number,9550,9550,Race/Ethnicity,"White, non-Hispanic",42,RACE,WHT
+2015,2019,NH,"Cancer of the lung and bronchus, incidence",Average Annual Number,1168,1168,Overall,Overall,33,OVERALL,OVR
+2015,2019,NH,"Cancer of the lung and bronchus, incidence",Average Annual Number,9,9,Race/Ethnicity,Hispanic,33,RACE,HIS
+2015,2019,WV,"Cancer of the lung and bronchus, incidence",Average Annual Number,2025,2025,Race/Ethnicity,"White, non-Hispanic",54,RACE,WHT
+2015,2019,ME,"Cancer of the lung and bronchus, incidence",Average Annual Number,4,4,Race/Ethnicity,Hispanic,23,RACE,HIS
+2015,2019,MD,"Cancer of the lung and bronchus, incidence",Average Annual Number,53,53,Race/Ethnicity,Hispanic,24,RACE,HIS
+2015,2019,NJ,"Cancer of the lung and bronchus, incidence",Average Annual Number,3119,3119,Gender,Female,34,GENDER,GENF
+2015,2019,MI,"Cancer of the lung and bronchus, incidence",Average Annual Number,957,957,Race/Ethnicity,"Black, non-Hispanic",26,RACE,BLK
+2015,2019,OH,"Cancer of the lung and bronchus, incidence",Average Annual Number,5290,5290,Gender,Male,39,GENDER,GENM
+2015,2019,KY,"Cancer of the lung and bronchus, incidence",Average Annual Number,2573,2573,Gender,Male,21,GENDER,GENM
+2015,2019,FL,"Cancer of the lung and bronchus, incidence",Average Annual Number,1945,1945,Race/Ethnicity,Hispanic,12,RACE,HIS
+2015,2019,TN,"Cancer of the lung and bronchus, incidence",Average Annual Number,2871,2871,Gender,Female,47,GENDER,GENF
+2015,2019,MD,"Cancer of the lung and bronchus, incidence",Average Annual Number,2027,2027,Gender,Female,24,GENDER,GENF
+2015,2019,NE,"Cancer of the lung and bronchus, incidence",Average Annual Number,650,650,Gender,Male,31,GENDER,GENM
+2015,2019,NM,"Cancer of the lung and bronchus, incidence",Average Annual Number,468,468,Gender,Female,35,GENDER,GENF
+2015,2019,VA,"Cancer of the lung and bronchus, incidence",Average Annual Number,5465,5465,Overall,Overall,51,OVERALL,OVR
+2015,2019,NJ,"Cancer of the lung and bronchus, incidence",Average Annual Number,215,215,Race/Ethnicity,Asian or Pacific Islander,34,RACE,APIO
+2015,2019,WY,"Cancer of the lung and bronchus, incidence",Average Annual Number,5,5,Race/Ethnicity,American Indian or Alaska Native,56,RACE,AIAO
+2015,2019,WA,"Cancer of the lung and bronchus, incidence",Average Annual Number,247,247,Race/Ethnicity,Asian or Pacific Islander,53,RACE,APIO
+2015,2019,MA,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"Black, non-Hispanic",25,RACE,BLK
+2015,2019,WV,"Cancer of the lung and bronchus, incidence",Average Annual Number,48,48,Race/Ethnicity,"Black, non-Hispanic",54,RACE,BLK
+2015,2019,OK,"Cancer of the lung and bronchus, incidence",Average Annual Number,1664,1664,Gender,Male,40,GENDER,GENM
+2015,2019,GA,"Cancer of the lung and bronchus, incidence",Average Annual Number,9,9,Race/Ethnicity,American Indian or Alaska Native,13,RACE,AIAO
+2015,2019,NE,"Cancer of the lung and bronchus, incidence",Average Annual Number,11,11,Race/Ethnicity,Asian or Pacific Islander,31,RACE,APIO
+2015,2019,UT,"Cancer of the lung and bronchus, incidence",Average Annual Number,328,328,Gender,Female,49,GENDER,GENF
+2015,2019,ID,"Cancer of the lung and bronchus, incidence",Average Annual Number,921,921,Race/Ethnicity,"White, non-Hispanic",16,RACE,WHT
+2015,2019,WA,"Cancer of the lung and bronchus, incidence",Average Annual Number,4497,4497,Overall,Overall,53,OVERALL,OVR
+2015,2019,OK,"Cancer of the lung and bronchus, incidence",Average Annual Number,3134,3134,Overall,Overall,40,OVERALL,OVR
+2015,2019,LA,"Cancer of the lung and bronchus, incidence",Average Annual Number,34,34,Race/Ethnicity,Asian or Pacific Islander,22,RACE,APIO
+2015,2019,NV,"Cancer of the lung and bronchus, incidence",Average Annual Number,74,74,Race/Ethnicity,"Black, non-Hispanic",32,RACE,BLK
+2015,2019,KY,"Cancer of the lung and bronchus, incidence",Average Annual Number,3,3,Race/Ethnicity,American Indian or Alaska Native,21,RACE,AIAO
+2015,2019,NV,"Cancer of the lung and bronchus, incidence",Average Annual Number,539,539,Gender,Female,32,GENDER,GENF
+2015,2019,WA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2208,2208,Gender,Male,53,GENDER,GENM
+2015,2019,HI,"Cancer of the lung and bronchus, incidence",Average Annual Number,50,50,Race/Ethnicity,Hispanic,15,RACE,HIS
+2015,2019,NJ,"Cancer of the lung and bronchus, incidence",Average Annual Number,4730,4730,Race/Ethnicity,"White, non-Hispanic",34,RACE,WHT
+2015,2019,RI,"Cancer of the lung and bronchus, incidence",Average Annual Number,40,40,Race/Ethnicity,Hispanic,44,RACE,HIS
+2015,2019,MT,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"Black, non-Hispanic",30,RACE,BLK
+2015,2019,FL,"Cancer of the lung and bronchus, incidence",Average Annual Number,13953,13953,Race/Ethnicity,"White, non-Hispanic",12,RACE,WHT
+2015,2019,ND,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Asian or Pacific Islander,38,RACE,APIO
+2015,2019,MT,"Cancer of the lung and bronchus, incidence",Average Annual Number,729,729,Overall,Overall,30,OVERALL,OVR
+2015,2019,NM,"Cancer of the lung and bronchus, incidence",Average Annual Number,19,19,Race/Ethnicity,"Black, non-Hispanic",35,RACE,BLK
+2015,2019,RI,"Cancer of the lung and bronchus, incidence",Average Annual Number,31,31,Race/Ethnicity,"Black, non-Hispanic",44,RACE,BLK
+2015,2019,MI,"Cancer of the lung and bronchus, incidence",Average Annual Number,81,81,Race/Ethnicity,Hispanic,26,RACE,HIS
+2015,2019,TN,"Cancer of the lung and bronchus, incidence",Average Annual Number,5420,5420,Race/Ethnicity,"White, non-Hispanic",47,RACE,WHT
+2015,2019,IA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2538,2538,Overall,Overall,19,OVERALL,OVR
+2015,2019,ND,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Hispanic,38,RACE,HIS
+2015,2019,WV,"Cancer of the lung and bronchus, incidence",Average Annual Number,4,4,Race/Ethnicity,Hispanic,54,RACE,HIS
+2015,2019,WY,"Cancer of the lung and bronchus, incidence",Average Annual Number,12,12,Race/Ethnicity,Hispanic,56,RACE,HIS
+2015,2019,US,"Cancer of the lung and bronchus, incidence",Average Annual Number,1429,1429,Race/Ethnicity,American Indian or Alaska Native,59,RACE,AIAO
+2015,2019,NE,"Cancer of the lung and bronchus, incidence",Average Annual Number,26,26,Race/Ethnicity,Hispanic,31,RACE,HIS
+2015,2019,TN,"Cancer of the lung and bronchus, incidence",Average Annual Number,33,33,Race/Ethnicity,Asian or Pacific Islander,47,RACE,APIO
+2015,2019,MD,"Cancer of the lung and bronchus, incidence",Average Annual Number,2749,2749,Race/Ethnicity,"White, non-Hispanic",24,RACE,WHT
+2015,2019,MA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2816,2816,Gender,Female,25,GENDER,GENF
+2015,2019,UT,"Cancer of the lung and bronchus, incidence",Average Annual Number,5,5,Race/Ethnicity,American Indian or Alaska Native,49,RACE,AIAO
+2015,2019,SD,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Hispanic,46,RACE,HIS
+2015,2019,NV,"Cancer of the lung and bronchus, incidence",Average Annual Number,824,824,Race/Ethnicity,"White, non-Hispanic",32,RACE,WHT
+2015,2019,ID,"Cancer of the lung and bronchus, incidence",Average Annual Number,481,481,Gender,Female,16,GENDER,GENF
+2015,2019,NC,"Cancer of the lung and bronchus, incidence",Average Annual Number,6592,6592,Race/Ethnicity,"White, non-Hispanic",37,RACE,WHT
+2015,2019,UT,"Cancer of the lung and bronchus, incidence",Average Annual Number,701,701,Overall,Overall,49,OVERALL,OVR
+2015,2019,MA,"Cancer of the lung and bronchus, incidence",Average Annual Number,5248,5248,Overall,Overall,25,OVERALL,OVR
+2015,2019,NY,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,36,RACE,AIAO
+2015,2019,US,"Cancer of the lung and bronchus, incidence",Average Annual Number,181603,181603,Race/Ethnicity,"White, non-Hispanic",59,RACE,WHT
+2015,2019,VA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2816,2816,Gender,Male,51,GENDER,GENM
+2015,2019,SC,"Cancer of the lung and bronchus, incidence",Average Annual Number,28,28,Race/Ethnicity,Hispanic,45,RACE,HIS
+2015,2019,OH,"Cancer of the lung and bronchus, incidence",Average Annual Number,58,58,Race/Ethnicity,Asian or Pacific Islander,39,RACE,APIO
+2015,2019,MD,"Cancer of the lung and bronchus, incidence",Average Annual Number,6,6,Race/Ethnicity,American Indian or Alaska Native,24,RACE,AIAO
+2015,2019,IN,"Cancer of the lung and bronchus, incidence",Average Annual Number,382,382,Race/Ethnicity,"Black, non-Hispanic",18,RACE,BLK
+2015,2019,NE,"Cancer of the lung and bronchus, incidence",Average Annual Number,1262,1262,Overall,Overall,31,OVERALL,OVR
+2015,2019,MA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2432,2432,Gender,Male,25,GENDER,GENM
+2015,2019,MS,"Cancer of the lung and bronchus, incidence",Average Annual Number,12,12,Race/Ethnicity,Asian or Pacific Islander,28,RACE,APIO
+2015,2019,OR,"Cancer of the lung and bronchus, incidence",Average Annual Number,42,42,Race/Ethnicity,"Black, non-Hispanic",41,RACE,BLK
+2015,2019,OR,"Cancer of the lung and bronchus, incidence",Average Annual Number,1364,1364,Gender,Male,41,GENDER,GENM
+2015,2019,IL,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Asian or Pacific Islander,17,RACE,APIO
+2015,2019,TN,"Cancer of the lung and bronchus, incidence",Average Annual Number,6221,6221,Overall,Overall,47,OVERALL,OVR
+2015,2019,NH,"Cancer of the lung and bronchus, incidence",Average Annual Number,562,562,Gender,Male,33,GENDER,GENM
+2015,2019,WI,"Cancer of the lung and bronchus, incidence",Average Annual Number,2269,2269,Gender,Male,55,GENDER,GENM
+2015,2019,GA,"Cancer of the lung and bronchus, incidence",Average Annual Number,5057,5057,Race/Ethnicity,"White, non-Hispanic",13,RACE,WHT
+2015,2019,NV,"Cancer of the lung and bronchus, incidence",Average Annual Number,63,63,Race/Ethnicity,Asian or Pacific Islander,32,RACE,APIO
+2015,2019,HI,"Cancer of the lung and bronchus, incidence",Average Annual Number,593,593,Race/Ethnicity,Asian or Pacific Islander,15,RACE,APIO
+2015,2019,US,"Cancer of the lung and bronchus, incidence",Average Annual Number,224257,224257,Overall,Overall,59,OVERALL,OVR
+2015,2019,WY,"Cancer of the lung and bronchus, incidence",Average Annual Number,280,280,Race/Ethnicity,"White, non-Hispanic",56,RACE,WHT
+2015,2019,ID,"Cancer of the lung and bronchus, incidence",Average Annual Number,13,13,Race/Ethnicity,American Indian or Alaska Native,16,RACE,AIAO
+2015,2019,NH,"Cancer of the lung and bronchus, incidence",Average Annual Number,4,4,Race/Ethnicity,"Black, non-Hispanic",33,RACE,BLK
+2015,2019,LA,"Cancer of the lung and bronchus, incidence",Average Annual Number,1965,1965,Gender,Male,22,GENDER,GENM
+2015,2019,LA,"Cancer of the lung and bronchus, incidence",Average Annual Number,1583,1583,Gender,Female,22,GENDER,GENF
+2015,2019,IN,"Cancer of the lung and bronchus, incidence",Average Annual Number,5623,5623,Overall,Overall,18,OVERALL,OVR
+2015,2019,KS,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"Black, non-Hispanic",20,RACE,BLK
+2015,2019,KS,"Cancer of the lung and bronchus, incidence",Average Annual Number,1927,1927,Overall,Overall,20,OVERALL,OVR
+2015,2019,PA,"Cancer of the lung and bronchus, incidence",Average Annual Number,10913,10913,Overall,Overall,42,OVERALL,OVR
+2015,2019,HI,"Cancer of the lung and bronchus, incidence",Average Annual Number,465,465,Gender,Male,15,GENDER,GENM
+2015,2019,VT,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Hispanic,50,RACE,HIS
+2015,2019,VA,"Cancer of the lung and bronchus, incidence",Average Annual Number,7,7,Race/Ethnicity,American Indian or Alaska Native,51,RACE,AIAO
+2015,2019,UT,"Cancer of the lung and bronchus, incidence",Average Annual Number,629,629,Race/Ethnicity,"White, non-Hispanic",49,RACE,WHT
+2015,2019,MO,"Cancer of the lung and bronchus, incidence",Average Annual Number,13,13,Race/Ethnicity,American Indian or Alaska Native,29,RACE,AIAO
+2015,2019,MT,"Cancer of the lung and bronchus, incidence",Average Annual Number,5,5,Race/Ethnicity,Hispanic,30,RACE,HIS
+2015,2019,GA,"Cancer of the lung and bronchus, incidence",Average Annual Number,123,123,Race/Ethnicity,Hispanic,13,RACE,HIS
+2015,2019,OH,"Cancer of the lung and bronchus, incidence",Average Annual Number,4865,4865,Gender,Female,39,GENDER,GENF
+2015,2019,MS,"Cancer of the lung and bronchus, incidence",Average Annual Number,3,3,Race/Ethnicity,American Indian or Alaska Native,28,RACE,AIAO
+2015,2019,OK,"Cancer of the lung and bronchus, incidence",Average Annual Number,302,302,Race/Ethnicity,American Indian or Alaska Native,40,RACE,AIAO
+2015,2019,SD,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"Black, non-Hispanic",46,RACE,BLK
+2015,2019,MI,"Cancer of the lung and bronchus, incidence",Average Annual Number,67,67,Race/Ethnicity,Asian or Pacific Islander,26,RACE,APIO
+2015,2019,ND,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"Black, non-Hispanic",38,RACE,BLK
+2015,2019,IL,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"White, non-Hispanic",17,RACE,WHT
+2015,2019,US,"Cancer of the lung and bronchus, incidence",Average Annual Number,115179,115179,Gender,Male,59,GENDER,GENM
+2015,2019,NY,"Cancer of the lung and bronchus, incidence",Average Annual Number,6901,6901,Gender,Male,36,GENDER,GENM
+2015,2019,OK,"Cancer of the lung and bronchus, incidence",Average Annual Number,50,50,Race/Ethnicity,Hispanic,40,RACE,HIS
+2015,2019,NC,"Cancer of the lung and bronchus, incidence",Average Annual Number,8345,8345,Overall,Overall,37,OVERALL,OVR
+2015,2019,ME,"Cancer of the lung and bronchus, incidence",Average Annual Number,4,4,Race/Ethnicity,Asian or Pacific Islander,23,RACE,APIO
+2015,2019,IA,"Cancer of the lung and bronchus, incidence",Average Annual Number,1190,1190,Gender,Female,19,GENDER,GENF
+2015,2019,MI,"Cancer of the lung and bronchus, incidence",Average Annual Number,3988,3988,Gender,Female,26,GENDER,GENF
+2015,2019,KY,"Cancer of the lung and bronchus, incidence",Average Annual Number,23,23,Race/Ethnicity,Hispanic,21,RACE,HIS
+2015,2019,TN,"Cancer of the lung and bronchus, incidence",Average Annual Number,699,699,Race/Ethnicity,"Black, non-Hispanic",47,RACE,BLK
+2015,2019,OH,"Cancer of the lung and bronchus, incidence",Average Annual Number,8938,8938,Race/Ethnicity,"White, non-Hispanic",39,RACE,WHT
+2015,2019,WA,"Cancer of the lung and bronchus, incidence",Average Annual Number,71,71,Race/Ethnicity,American Indian or Alaska Native,53,RACE,AIAO
+2015,2019,WY,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"Black, non-Hispanic",56,RACE,BLK
+2015,2019,GA,"Cancer of the lung and bronchus, incidence",Average Annual Number,92,92,Race/Ethnicity,Asian or Pacific Islander,13,RACE,APIO
+2015,2019,ND,"Cancer of the lung and bronchus, incidence",Average Annual Number,243,243,Gender,Female,38,GENDER,GENF
+2015,2019,WV,"Cancer of the lung and bronchus, incidence",Average Annual Number,975,975,Gender,Female,54,GENDER,GENF
+2015,2019,SC,"Cancer of the lung and bronchus, incidence",Average Annual Number,839,839,Race/Ethnicity,"Black, non-Hispanic",45,RACE,BLK
+2015,2019,IN,"Cancer of the lung and bronchus, incidence",Average Annual Number,2951,2951,Gender,Male,18,GENDER,GENM
+2015,2019,LA,"Cancer of the lung and bronchus, incidence",Average Annual Number,3549,3549,Overall,Overall,22,OVERALL,OVR
+2015,2019,NM,"Cancer of the lung and bronchus, incidence",Average Annual Number,272,272,Race/Ethnicity,Hispanic,35,RACE,HIS
+2015,2019,ME,"Cancer of the lung and bronchus, incidence",Average Annual Number,719,719,Gender,Male,23,GENDER,GENM
+2015,2019,MD,"Cancer of the lung and bronchus, incidence",Average Annual Number,115,115,Race/Ethnicity,Asian or Pacific Islander,24,RACE,APIO
+2015,2019,IA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2448,2448,Race/Ethnicity,"White, non-Hispanic",19,RACE,WHT
+2015,2019,TX,"Cancer of the lung and bronchus, incidence",Average Annual Number,13561,13561,Overall,Overall,48,OVERALL,OVR
+2015,2019,NY,"Cancer of the lung and bronchus, incidence",Average Annual Number,10777,10777,Race/Ethnicity,"White, non-Hispanic",36,RACE,WHT
+2015,2019,WI,"Cancer of the lung and bronchus, incidence",Average Annual Number,2148,2148,Gender,Female,55,GENDER,GENF
+2015,2019,OR,"Cancer of the lung and bronchus, incidence",Average Annual Number,2773,2773,Overall,Overall,41,OVERALL,OVR
+2015,2019,MI,"Cancer of the lung and bronchus, incidence",Average Annual Number,4104,4104,Gender,Male,26,GENDER,GENM
+2015,2019,PA,"Cancer of the lung and bronchus, incidence",Average Annual Number,5541,5541,Gender,Male,42,GENDER,GENM
+2015,2019,ND,"Cancer of the lung and bronchus, incidence",Average Annual Number,256,256,Gender,Male,38,GENDER,GENM
+2015,2019,WY,"Cancer of the lung and bronchus, incidence",Average Annual Number,151,151,Gender,Male,56,GENDER,GENM
+2015,2019,MN,"Cancer of the lung and bronchus, incidence",Average Annual Number,65,65,Race/Ethnicity,American Indian or Alaska Native,27,RACE,AIAO
+2015,2019,UT,"Cancer of the lung and bronchus, incidence",Average Annual Number,19,19,Race/Ethnicity,Asian or Pacific Islander,49,RACE,APIO
+2015,2019,IA,"Cancer of the lung and bronchus, incidence",Average Annual Number,5,5,Race/Ethnicity,American Indian or Alaska Native,19,RACE,AIAO
+2015,2019,OR,"Cancer of the lung and bronchus, incidence",Average Annual Number,50,50,Race/Ethnicity,American Indian or Alaska Native,41,RACE,AIAO
+2015,2019,ID,"Cancer of the lung and bronchus, incidence",Average Annual Number,975,975,Overall,Overall,16,OVERALL,OVR
+2015,2019,SD,"Cancer of the lung and bronchus, incidence",Average Annual Number,310,310,Gender,Male,46,GENDER,GENM
+2015,2019,MS,"Cancer of the lung and bronchus, incidence",Average Annual Number,1162,1162,Gender,Female,28,GENDER,GENF
+2015,2019,MS,"Cancer of the lung and bronchus, incidence",Average Annual Number,2678,2678,Overall,Overall,28,OVERALL,OVR
+2015,2019,US,"Cancer of the lung and bronchus, incidence",Average Annual Number,6618,6618,Race/Ethnicity,Asian or Pacific Islander,59,RACE,APIO
+2015,2019,NJ,"Cancer of the lung and bronchus, incidence",Average Annual Number,633,633,Race/Ethnicity,"Black, non-Hispanic",34,RACE,BLK
+2015,2019,FL,"Cancer of the lung and bronchus, incidence",Average Annual Number,8468,8468,Gender,Female,12,GENDER,GENF
+2015,2019,TX,"Cancer of the lung and bronchus, incidence",Average Annual Number,1673,1673,Race/Ethnicity,Hispanic,48,RACE,HIS
+2015,2019,MN,"Cancer of the lung and bronchus, incidence",Average Annual Number,3486,3486,Race/Ethnicity,"White, non-Hispanic",27,RACE,WHT
+2015,2019,HI,"Cancer of the lung and bronchus, incidence",Average Annual Number,198,198,Race/Ethnicity,"White, non-Hispanic",15,RACE,WHT
+2015,2019,VT,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,50,RACE,AIAO
+2015,2019,OK,"Cancer of the lung and bronchus, incidence",Average Annual Number,2574,2574,Race/Ethnicity,"White, non-Hispanic",40,RACE,WHT
+2015,2019,IL,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,17,RACE,AIAO
+2015,2019,VA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2650,2650,Gender,Female,51,GENDER,GENF
+2015,2019,ID,"Cancer of the lung and bronchus, incidence",Average Annual Number,28,28,Race/Ethnicity,Hispanic,16,RACE,HIS
+2015,2019,TX,"Cancer of the lung and bronchus, incidence",Average Annual Number,348,348,Race/Ethnicity,Asian or Pacific Islander,48,RACE,APIO
+2015,2019,IL,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Hispanic,17,RACE,HIS
+2015,2019,LA,"Cancer of the lung and bronchus, incidence",Average Annual Number,971,971,Race/Ethnicity,"Black, non-Hispanic",22,RACE,BLK
+2015,2019,NV,"Cancer of the lung and bronchus, incidence",Average Annual Number,62,62,Race/Ethnicity,Hispanic,32,RACE,HIS
+2015,2019,RI,"Cancer of the lung and bronchus, incidence",Average Annual Number,489,489,Gender,Female,44,GENDER,GENF
+2015,2019,MT,"Cancer of the lung and bronchus, incidence",Average Annual Number,48,48,Race/Ethnicity,American Indian or Alaska Native,30,RACE,AIAO
+2015,2019,NM,"Cancer of the lung and bronchus, incidence",Average Annual Number,14,14,Race/Ethnicity,Asian or Pacific Islander,35,RACE,APIO
+2015,2019,SC,"Cancer of the lung and bronchus, incidence",Average Annual Number,2248,2248,Gender,Male,45,GENDER,GENM
+2015,2019,NE,"Cancer of the lung and bronchus, incidence",Average Annual Number,48,48,Race/Ethnicity,"Black, non-Hispanic",31,RACE,BLK
+2015,2019,VA,"Cancer of the lung and bronchus, incidence",Average Annual Number,4210,4210,Race/Ethnicity,"White, non-Hispanic",51,RACE,WHT
+2015,2019,MO,"Cancer of the lung and bronchus, incidence",Average Annual Number,4886,4886,Race/Ethnicity,"White, non-Hispanic",29,RACE,WHT
+2015,2019,IA,"Cancer of the lung and bronchus, incidence",Average Annual Number,1349,1349,Gender,Male,19,GENDER,GENM
+2015,2019,IN,"Cancer of the lung and bronchus, incidence",Average Annual Number,2672,2672,Gender,Female,18,GENDER,GENF
+2015,2019,SD,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Asian or Pacific Islander,46,RACE,APIO
+2015,2019,GA,"Cancer of the lung and bronchus, incidence",Average Annual Number,1593,1593,Race/Ethnicity,"Black, non-Hispanic",13,RACE,BLK
+2015,2019,MA,"Cancer of the lung and bronchus, incidence",Average Annual Number,144,144,Race/Ethnicity,Asian or Pacific Islander,25,RACE,APIO
+2015,2019,WA,"Cancer of the lung and bronchus, incidence",Average Annual Number,123,123,Race/Ethnicity,"Black, non-Hispanic",53,RACE,BLK
+2015,2019,MI,"Cancer of the lung and bronchus, incidence",Average Annual Number,80,80,Race/Ethnicity,American Indian or Alaska Native,26,RACE,AIAO
+2015,2019,MS,"Cancer of the lung and bronchus, incidence",Average Annual Number,1896,1896,Race/Ethnicity,"White, non-Hispanic",28,RACE,WHT
+2015,2019,MT,"Cancer of the lung and bronchus, incidence",Average Annual Number,379,379,Gender,Female,30,GENDER,GENF
+2015,2019,MT,"Cancer of the lung and bronchus, incidence",Average Annual Number,350,350,Gender,Male,30,GENDER,GENM
+2015,2019,KY,"Cancer of the lung and bronchus, incidence",Average Annual Number,273,273,Race/Ethnicity,"Black, non-Hispanic",21,RACE,BLK
+2015,2019,NC,"Cancer of the lung and bronchus, incidence",Average Annual Number,3910,3910,Gender,Female,37,GENDER,GENF
+2015,2019,TN,"Cancer of the lung and bronchus, incidence",Average Annual Number,3351,3351,Gender,Male,47,GENDER,GENM
+2015,2019,IA,"Cancer of the lung and bronchus, incidence",Average Annual Number,17,17,Race/Ethnicity,Asian or Pacific Islander,19,RACE,APIO
+2015,2019,PA,"Cancer of the lung and bronchus, incidence",Average Annual Number,1021,1021,Race/Ethnicity,"Black, non-Hispanic",42,RACE,BLK
+2015,2019,NY,"Cancer of the lung and bronchus, incidence",Average Annual Number,818,818,Race/Ethnicity,Asian or Pacific Islander,36,RACE,APIO
+2015,2019,MO,"Cancer of the lung and bronchus, incidence",Average Annual Number,5517,5517,Overall,Overall,29,OVERALL,OVR
+2015,2019,MS,"Cancer of the lung and bronchus, incidence",Average Annual Number,11,11,Race/Ethnicity,Hispanic,28,RACE,HIS
+2015,2019,LA,"Cancer of the lung and bronchus, incidence",Average Annual Number,39,39,Race/Ethnicity,Hispanic,22,RACE,HIS
+2015,2019,VA,"Cancer of the lung and bronchus, incidence",Average Annual Number,76,76,Race/Ethnicity,Hispanic,51,RACE,HIS
+2015,2019,ND,"Cancer of the lung and bronchus, incidence",Average Annual Number,31,31,Race/Ethnicity,American Indian or Alaska Native,38,RACE,AIAO
+2015,2019,WV,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,54,RACE,AIAO
+2015,2019,MI,"Cancer of the lung and bronchus, incidence",Average Annual Number,6885,6885,Race/Ethnicity,"White, non-Hispanic",26,RACE,WHT
+2015,2019,ID,"Cancer of the lung and bronchus, incidence",Average Annual Number,10,10,Race/Ethnicity,Asian or Pacific Islander,16,RACE,APIO
+2015,2019,UT,"Cancer of the lung and bronchus, incidence",Average Annual Number,373,373,Gender,Male,49,GENDER,GENM
+2015,2019,KS,"Cancer of the lung and bronchus, incidence",Average Annual Number,42,42,Race/Ethnicity,Hispanic,20,RACE,HIS
+2015,2019,HI,"Cancer of the lung and bronchus, incidence",Average Annual Number,6,6,Race/Ethnicity,American Indian or Alaska Native,15,RACE,AIAO
+2015,2019,NV,"Cancer of the lung and bronchus, incidence",Average Annual Number,8,8,Race/Ethnicity,American Indian or Alaska Native,32,RACE,AIAO
+2015,2019,NY,"Cancer of the lung and bronchus, incidence",Average Annual Number,1049,1049,Race/Ethnicity,Hispanic,36,RACE,HIS
+2015,2019,NV,"Cancer of the lung and bronchus, incidence",Average Annual Number,502,502,Gender,Male,32,GENDER,GENM
+2015,2019,OR,"Cancer of the lung and bronchus, incidence",Average Annual Number,64,64,Race/Ethnicity,Hispanic,41,RACE,HIS
+2015,2019,WA,"Cancer of the lung and bronchus, incidence",Average Annual Number,3921,3921,Race/Ethnicity,"White, non-Hispanic",53,RACE,WHT
+2015,2019,VT,"Cancer of the lung and bronchus, incidence",Average Annual Number,526,526,Overall,Overall,50,OVERALL,OVR
+2015,2019,NM,"Cancer of the lung and bronchus, incidence",Average Annual Number,645,645,Race/Ethnicity,"White, non-Hispanic",35,RACE,WHT
+2015,2019,VT,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Asian or Pacific Islander,50,RACE,APIO
+2015,2019,MD,"Cancer of the lung and bronchus, incidence",Average Annual Number,993,993,Race/Ethnicity,"Black, non-Hispanic",24,RACE,BLK
+2015,2019,NH,"Cancer of the lung and bronchus, incidence",Average Annual Number,9,9,Race/Ethnicity,Asian or Pacific Islander,33,RACE,APIO
+2015,2019,US,"Cancer of the lung and bronchus, incidence",Average Annual Number,10393,10393,Race/Ethnicity,Hispanic,59,RACE,HIS
+2015,2019,WI,"Cancer of the lung and bronchus, incidence",Average Annual Number,51,51,Race/Ethnicity,Hispanic,55,RACE,HIS
+2015,2019,OH,"Cancer of the lung and bronchus, incidence",Average Annual Number,9,9,Race/Ethnicity,American Indian or Alaska Native,39,RACE,AIAO
+2015,2019,OK,"Cancer of the lung and bronchus, incidence",Average Annual Number,27,27,Race/Ethnicity,Asian or Pacific Islander,40,RACE,APIO
+2015,2019,NJ,"Cancer of the lung and bronchus, incidence",Average Annual Number,2832,2832,Gender,Male,34,GENDER,GENM
+2015,2019,IL,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"Black, non-Hispanic",17,RACE,BLK
+2015,2019,OR,"Cancer of the lung and bronchus, incidence",Average Annual Number,75,75,Race/Ethnicity,Asian or Pacific Islander,41,RACE,APIO
+2015,2019,ME,"Cancer of the lung and bronchus, incidence",Average Annual Number,5,5,Race/Ethnicity,"Black, non-Hispanic",23,RACE,BLK
+2015,2019,MN,"Cancer of the lung and bronchus, incidence",Average Annual Number,28,28,Race/Ethnicity,Hispanic,27,RACE,HIS
+2015,2019,WA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2290,2290,Gender,Female,53,GENDER,GENF
+2015,2019,IN,"Cancer of the lung and bronchus, incidence",Average Annual Number,5146,5146,Race/Ethnicity,"White, non-Hispanic",18,RACE,WHT
+2015,2019,TX,"Cancer of the lung and bronchus, incidence",Average Annual Number,9812,9812,Race/Ethnicity,"White, non-Hispanic",48,RACE,WHT
+2015,2019,ME,"Cancer of the lung and bronchus, incidence",Average Annual Number,1406,1406,Race/Ethnicity,"White, non-Hispanic",23,RACE,WHT
+2015,2019,VT,"Cancer of the lung and bronchus, incidence",Average Annual Number,257,257,Gender,Female,50,GENDER,GENF
+2015,2019,MN,"Cancer of the lung and bronchus, incidence",Average Annual Number,66,66,Race/Ethnicity,Asian or Pacific Islander,27,RACE,APIO
+2015,2019,WI,"Cancer of the lung and bronchus, incidence",Average Annual Number,251,251,Race/Ethnicity,"Black, non-Hispanic",55,RACE,BLK
+2015,2019,KS,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Asian or Pacific Islander,20,RACE,APIO
+2015,2019,NC,"Cancer of the lung and bronchus, incidence",Average Annual Number,1458,1458,Race/Ethnicity,"Black, non-Hispanic",37,RACE,BLK
+2015,2019,IN,"Cancer of the lung and bronchus, incidence",Average Annual Number,8,8,Race/Ethnicity,American Indian or Alaska Native,18,RACE,AIAO
+2015,2019,MT,"Cancer of the lung and bronchus, incidence",Average Annual Number,673,673,Race/Ethnicity,"White, non-Hispanic",30,RACE,WHT
+2015,2019,IL,"Cancer of the lung and bronchus, incidence",Average Annual Number,4739,4739,Gender,Male,17,GENDER,GENM
+2015,2019,US,"Cancer of the lung and bronchus, incidence",Average Annual Number,23538,23538,Race/Ethnicity,"Black, non-Hispanic",59,RACE,BLK
+2015,2019,OH,"Cancer of the lung and bronchus, incidence",Average Annual Number,10156,10156,Overall,Overall,39,OVERALL,OVR
+2015,2019,GA,"Cancer of the lung and bronchus, incidence",Average Annual Number,3162,3162,Gender,Female,13,GENDER,GENF
+2015,2019,PA,"Cancer of the lung and bronchus, incidence",Average Annual Number,5372,5372,Gender,Female,42,GENDER,GENF
+2015,2019,KY,"Cancer of the lung and bronchus, incidence",Average Annual Number,4919,4919,Overall,Overall,21,OVERALL,OVR
+2015,2019,ID,"Cancer of the lung and bronchus, incidence",Average Annual Number,495,495,Gender,Male,16,GENDER,GENM
+2015,2019,NE,"Cancer of the lung and bronchus, incidence",Average Annual Number,612,612,Gender,Female,31,GENDER,GENF
+2015,2019,IL,"Cancer of the lung and bronchus, incidence",Average Annual Number,9452,9452,Overall,Overall,17,OVERALL,OVR
+2015,2019,MT,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Asian or Pacific Islander,30,RACE,APIO
+2015,2019,NE,"Cancer of the lung and bronchus, incidence",Average Annual Number,8,8,Race/Ethnicity,American Indian or Alaska Native,31,RACE,AIAO
+2015,2019,ND,"Cancer of the lung and bronchus, incidence",Average Annual Number,498,498,Overall,Overall,38,OVERALL,OVR
+2015,2019,MO,"Cancer of the lung and bronchus, incidence",Average Annual Number,2853,2853,Gender,Male,29,GENDER,GENM
+2015,2019,MO,"Cancer of the lung and bronchus, incidence",Average Annual Number,2664,2664,Gender,Female,29,GENDER,GENF
+2015,2019,SD,"Cancer of the lung and bronchus, incidence",Average Annual Number,305,305,Gender,Female,46,GENDER,GENF
+2015,2019,MS,"Cancer of the lung and bronchus, incidence",Average Annual Number,1516,1516,Gender,Male,28,GENDER,GENM
+2015,2019,NM,"Cancer of the lung and bronchus, incidence",Average Annual Number,22,22,Race/Ethnicity,American Indian or Alaska Native,35,RACE,AIAO
+2015,2019,WY,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Asian or Pacific Islander,56,RACE,APIO
+2015,2019,RI,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,44,RACE,AIAO
+2015,2019,SC,"Cancer of the lung and bronchus, incidence",Average Annual Number,24,24,Race/Ethnicity,Asian or Pacific Islander,45,RACE,APIO
+2015,2019,KY,"Cancer of the lung and bronchus, incidence",Average Annual Number,2345,2345,Gender,Female,21,GENDER,GENF
+2015,2019,OK,"Cancer of the lung and bronchus, incidence",Average Annual Number,1470,1470,Gender,Female,40,GENDER,GENF
+2015,2019,KS,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"White, non-Hispanic",20,RACE,WHT
+2015,2019,MA,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"White, non-Hispanic",25,RACE,WHT
+2015,2019,NY,"Cancer of the lung and bronchus, incidence",Average Annual Number,7334,7334,Gender,Female,36,GENDER,GENF
+2015,2019,OH,"Cancer of the lung and bronchus, incidence",Average Annual Number,1063,1063,Race/Ethnicity,"Black, non-Hispanic",39,RACE,BLK
+2015,2019,FL,"Cancer of the lung and bronchus, incidence",Average Annual Number,17661,17661,Overall,Overall,12,OVERALL,OVR
+2015,2019,NH,"Cancer of the lung and bronchus, incidence",Average Annual Number,1137,1137,Race/Ethnicity,"White, non-Hispanic",33,RACE,WHT
+2015,2019,NJ,"Cancer of the lung and bronchus, incidence",Average Annual Number,5951,5951,Overall,Overall,34,OVERALL,OVR
+2015,2019,HI,"Cancer of the lung and bronchus, incidence",Average Annual Number,365,365,Gender,Female,15,GENDER,GENF
+2015,2019,UT,"Cancer of the lung and bronchus, incidence",Average Annual Number,44,44,Race/Ethnicity,Hispanic,49,RACE,HIS
+2015,2019,MS,"Cancer of the lung and bronchus, incidence",Average Annual Number,756,756,Race/Ethnicity,"Black, non-Hispanic",28,RACE,BLK
+2015,2019,NJ,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,34,RACE,AIAO
+2015,2019,RI,"Cancer of the lung and bronchus, incidence",Average Annual Number,948,948,Overall,Overall,44,OVERALL,OVR
+2015,2019,NC,"Cancer of the lung and bronchus, incidence",Average Annual Number,68,68,Race/Ethnicity,Asian or Pacific Islander,37,RACE,APIO
+2015,2019,NM,"Cancer of the lung and bronchus, incidence",Average Annual Number,495,495,Gender,Male,35,GENDER,GENM
+2015,2019,WI,"Cancer of the lung and bronchus, incidence",Average Annual Number,33,33,Race/Ethnicity,Asian or Pacific Islander,55,RACE,APIO
+2015,2019,MO,"Cancer of the lung and bronchus, incidence",Average Annual Number,38,38,Race/Ethnicity,Hispanic,29,RACE,HIS
+2015,2019,MN,"Cancer of the lung and bronchus, incidence",Average Annual Number,1884,1884,Gender,Male,27,GENDER,GENM
+2015,2019,GA,"Cancer of the lung and bronchus, incidence",Average Annual Number,6879,6879,Overall,Overall,13,OVERALL,OVR
+2015,2019,IN,"Cancer of the lung and bronchus, incidence",Average Annual Number,53,53,Race/Ethnicity,Hispanic,18,RACE,HIS
+2015,2019,MA,"Cancer of the lung and bronchus, incidence",Average Annual Number,6,6,Race/Ethnicity,American Indian or Alaska Native,25,RACE,AIAO
+2015,2019,SC,"Cancer of the lung and bronchus, incidence",Average Annual Number,3189,3189,Race/Ethnicity,"White, non-Hispanic",45,RACE,WHT
+2015,2019,SD,"Cancer of the lung and bronchus, incidence",Average Annual Number,34,34,Race/Ethnicity,American Indian or Alaska Native,46,RACE,AIAO
+2015,2019,PA,"Cancer of the lung and bronchus, incidence",Average Annual Number,172,172,Race/Ethnicity,Hispanic,42,RACE,HIS
+2015,2019,OH,"Cancer of the lung and bronchus, incidence",Average Annual Number,63,63,Race/Ethnicity,Hispanic,39,RACE,HIS
+2015,2019,IA,"Cancer of the lung and bronchus, incidence",Average Annual Number,17,17,Race/Ethnicity,Hispanic,19,RACE,HIS
+2015,2019,WY,"Cancer of the lung and bronchus, incidence",Average Annual Number,300,300,Overall,Overall,56,OVERALL,OVR
+2015,2019,LA,"Cancer of the lung and bronchus, incidence",Average Annual Number,9,9,Race/Ethnicity,American Indian or Alaska Native,22,RACE,AIAO
+2015,2019,TN,"Cancer of the lung and bronchus, incidence",Average Annual Number,47,47,Race/Ethnicity,Hispanic,47,RACE,HIS
+2015,2019,RI,"Cancer of the lung and bronchus, incidence",Average Annual Number,9,9,Race/Ethnicity,Asian or Pacific Islander,44,RACE,APIO
+2015,2019,ND,"Cancer of the lung and bronchus, incidence",Average Annual Number,461,461,Race/Ethnicity,"White, non-Hispanic",38,RACE,WHT
+2015,2019,FL,"Cancer of the lung and bronchus, incidence",Average Annual Number,9193,9193,Gender,Male,12,GENDER,GENM
+2015,2019,SC,"Cancer of the lung and bronchus, incidence",Average Annual Number,4106,4106,Overall,Overall,45,OVERALL,OVR
+2015,2019,TX,"Cancer of the lung and bronchus, incidence",Average Annual Number,48,48,Race/Ethnicity,American Indian or Alaska Native,48,RACE,AIAO
+2015,2019,TX,"Cancer of the lung and bronchus, incidence",Average Annual Number,7291,7291,Gender,Male,48,GENDER,GENM
+2015,2019,HI,"Cancer of the lung and bronchus, incidence",Average Annual Number,7,7,Race/Ethnicity,"Black, non-Hispanic",15,RACE,BLK
+2015,2019,MD,"Cancer of the lung and bronchus, incidence",Average Annual Number,1891,1891,Gender,Male,24,GENDER,GENM
+2015,2019,ME,"Cancer of the lung and bronchus, incidence",Average Annual Number,1434,1434,Overall,Overall,23,OVERALL,OVR
+2015,2019,NH,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,American Indian or Alaska Native,33,RACE,AIAO
+2015,2019,NV,"Cancer of the lung and bronchus, incidence",Average Annual Number,1041,1041,Overall,Overall,32,OVERALL,OVR
+2015,2019,MD,"Cancer of the lung and bronchus, incidence",Average Annual Number,3917,3917,Overall,Overall,24,OVERALL,OVR
+2015,2019,WV,"Cancer of the lung and bronchus, incidence",Average Annual Number,5,5,Race/Ethnicity,Asian or Pacific Islander,54,RACE,APIO
+2015,2019,NY,"Cancer of the lung and bronchus, incidence",Average Annual Number,14235,14235,Overall,Overall,36,OVERALL,OVR
+2015,2019,WV,"Cancer of the lung and bronchus, incidence",Average Annual Number,2088,2088,Overall,Overall,54,OVERALL,OVR
+2015,2019,SC,"Cancer of the lung and bronchus, incidence",Average Annual Number,1858,1858,Gender,Female,45,GENDER,GENF
+2015,2019,NC,"Cancer of the lung and bronchus, incidence",Average Annual Number,4434,4434,Gender,Male,37,GENDER,GENM
+2015,2019,IN,"Cancer of the lung and bronchus, incidence",Average Annual Number,26,26,Race/Ethnicity,Asian or Pacific Islander,18,RACE,APIO
+2015,2019,NM,"Cancer of the lung and bronchus, incidence",Average Annual Number,963,963,Overall,Overall,35,OVERALL,OVR
+2015,2019,PA,"Cancer of the lung and bronchus, incidence",Average Annual Number,125,125,Race/Ethnicity,Asian or Pacific Islander,42,RACE,APIO
+2015,2019,ID,"Cancer of the lung and bronchus, incidence",Average Annual Number,4,4,Race/Ethnicity,"Black, non-Hispanic",16,RACE,BLK
+2015,2019,OR,"Cancer of the lung and bronchus, incidence",Average Annual Number,1409,1409,Gender,Female,41,GENDER,GENF
+2015,2019,NH,"Cancer of the lung and bronchus, incidence",Average Annual Number,606,606,Gender,Female,33,GENDER,GENF
+2015,2019,KS,"Cancer of the lung and bronchus, incidence",Average Annual Number,938,938,Gender,Female,20,GENDER,GENF
+2015,2019,LA,"Cancer of the lung and bronchus, incidence",Average Annual Number,2501,2501,Race/Ethnicity,"White, non-Hispanic",22,RACE,WHT
+2015,2019,HI,"Cancer of the lung and bronchus, incidence",Average Annual Number,830,830,Overall,Overall,15,OVERALL,OVR
+2015,2019,SC,"Cancer of the lung and bronchus, incidence",Average Annual Number,7,7,Race/Ethnicity,American Indian or Alaska Native,45,RACE,AIAO
+2015,2019,KS,"Cancer of the lung and bronchus, incidence",Average Annual Number,989,989,Gender,Male,20,GENDER,GENM
+2015,2019,WY,"Cancer of the lung and bronchus, incidence",Average Annual Number,150,150,Gender,Female,56,GENDER,GENF
+2015,2019,WV,"Cancer of the lung and bronchus, incidence",Average Annual Number,1112,1112,Gender,Male,54,GENDER,GENM
+2015,2019,IA,"Cancer of the lung and bronchus, incidence",Average Annual Number,52,52,Race/Ethnicity,"Black, non-Hispanic",19,RACE,BLK
+2015,2019,SD,"Cancer of the lung and bronchus, incidence",Average Annual Number,615,615,Overall,Overall,46,OVERALL,OVR
+2015,2019,KY,"Cancer of the lung and bronchus, incidence",Average Annual Number,17,17,Race/Ethnicity,Asian or Pacific Islander,21,RACE,APIO
+2015,2019,TN,"Cancer of the lung and bronchus, incidence",Average Annual Number,5,5,Race/Ethnicity,American Indian or Alaska Native,47,RACE,AIAO
+2015,2019,NY,"Cancer of the lung and bronchus, incidence",Average Annual Number,1549,1549,Race/Ethnicity,"Black, non-Hispanic",36,RACE,BLK
+2015,2019,KY,"Cancer of the lung and bronchus, incidence",Average Annual Number,4603,4603,Race/Ethnicity,"White, non-Hispanic",21,RACE,WHT
+2015,2019,WA,"Cancer of the lung and bronchus, incidence",Average Annual Number,123,123,Race/Ethnicity,Hispanic,53,RACE,HIS
+2015,2019,MI,"Cancer of the lung and bronchus, incidence",Average Annual Number,8092,8092,Overall,Overall,26,OVERALL,OVR
+2015,2019,RI,"Cancer of the lung and bronchus, incidence",Average Annual Number,459,459,Gender,Male,44,GENDER,GENM
+2015,2019,NJ,"Cancer of the lung and bronchus, incidence",Average Annual Number,389,389,Race/Ethnicity,Hispanic,34,RACE,HIS
+2015,2019,RI,"Cancer of the lung and bronchus, incidence",Average Annual Number,861,861,Race/Ethnicity,"White, non-Hispanic",44,RACE,WHT
+2015,2019,MA,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,Hispanic,25,RACE,HIS
+2015,2019,GA,"Cancer of the lung and bronchus, incidence",Average Annual Number,3717,3717,Gender,Male,13,GENDER,GENM
+2015,2019,MN,"Cancer of the lung and bronchus, incidence",Average Annual Number,123,123,Race/Ethnicity,"Black, non-Hispanic",27,RACE,BLK
+2015,2019,WI,"Cancer of the lung and bronchus, incidence",Average Annual Number,4026,4026,Race/Ethnicity,"White, non-Hispanic",55,RACE,WHT
+2015,2019,UT,"Cancer of the lung and bronchus, incidence",Average Annual Number,6,6,Race/Ethnicity,"Black, non-Hispanic",49,RACE,BLK
+2015,2019,MN,"Cancer of the lung and bronchus, incidence",Average Annual Number,3777,3777,Overall,Overall,27,OVERALL,OVR
+2015,2019,VA,"Cancer of the lung and bronchus, incidence",Average Annual Number,978,978,Race/Ethnicity,"Black, non-Hispanic",51,RACE,BLK
+2015,2019,MO,"Cancer of the lung and bronchus, incidence",Average Annual Number,527,527,Race/Ethnicity,"Black, non-Hispanic",29,RACE,BLK
+2015,2019,NC,"Cancer of the lung and bronchus, incidence",Average Annual Number,106,106,Race/Ethnicity,Hispanic,37,RACE,HIS
+2015,2019,SD,"Cancer of the lung and bronchus, incidence",Average Annual Number,573,573,Race/Ethnicity,"White, non-Hispanic",46,RACE,WHT
+2015,2019,NE,"Cancer of the lung and bronchus, incidence",Average Annual Number,1166,1166,Race/Ethnicity,"White, non-Hispanic",31,RACE,WHT
+2015,2019,VT,"Cancer of the lung and bronchus, incidence",Average Annual Number,517,517,Race/Ethnicity,"White, non-Hispanic",50,RACE,WHT
+2015,2019,MN,"Cancer of the lung and bronchus, incidence",Average Annual Number,1893,1893,Gender,Female,27,GENDER,GENF
+2015,2019,OK,"Cancer of the lung and bronchus, incidence",Average Annual Number,175,175,Race/Ethnicity,"Black, non-Hispanic",40,RACE,BLK
+2015,2019,ME,"Cancer of the lung and bronchus, incidence",Average Annual Number,12,12,Race/Ethnicity,American Indian or Alaska Native,23,RACE,AIAO
+2015,2019,VT,"Cancer of the lung and bronchus, incidence",Average Annual Number,,,Race/Ethnicity,"Black, non-Hispanic",50,RACE,BLK
+2015,2019,US,"Cancer of the lung and bronchus, incidence",Average Annual Number,109079,109079,Gender,Female,59,GENDER,GENF
