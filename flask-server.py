@@ -16,7 +16,7 @@ import numpy as np
 # Database Setup
 ################################################# 
 
-engine = create_engine("sqlite:///Resources\Project-3-Lung-Cancer.sqlite")
+engine = create_engine("sqlite:///Resources/Project-3-Lung-Cancer.sqlite")
 # reflect an existing database into a new model 
 Base = automap_base()
 
